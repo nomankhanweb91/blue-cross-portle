@@ -1,0 +1,6 @@
+{
+  "name": "BLUE CROSS — INDIA SUPER PORTAL",
+  "description": "Search, tools, government services, utilities, calculators, and information portal for India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
